@@ -1,5 +1,7 @@
 # ![Emails](https://cdn.rawgit.com/sinergi/emails/master/emails-logo.svg "Emails")
 
+[![Join the chat at https://gitter.im/sinergi/emails](https://badges.gitter.im/sinergi/emails.svg)](https://gitter.im/sinergi/emails?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://api.travis-ci.org/sinergi/emails.svg?branch=master)](https://travis-ci.org/sinergi/emails)
 [![StyleCI](https://styleci.io/repos/15456713/shield)](https://styleci.io/repos/15456713)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/sinergi/emails/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/sinergi/emails/?branch=master)
